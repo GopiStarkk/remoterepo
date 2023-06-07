@@ -1,4 +1,4 @@
-FIRST VERSION OF SOURCE CODE:
+SECOND VERSION OF SOURCE CODE:
 
 public static void printPattern(int n)  
 {  
